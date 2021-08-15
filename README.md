@@ -1,2 +1,1 @@
-# C-37
-- Created by Anunit Rampurkar
+# C36_SpeedRacer_TeacherActivity
